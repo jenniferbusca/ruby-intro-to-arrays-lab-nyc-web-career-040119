@@ -11,3 +11,4 @@ end
 
 def first_element(array)
   return array.first
+end
